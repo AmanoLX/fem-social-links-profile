@@ -125,7 +125,7 @@ main {
 .card {
   background-color: var(--clr-dark-grey);
   width: 85%;
-  max-width: 30em;
+  max-width: 25em;
   border-radius: 1rem;
   padding: 2rem;
   text-align: center;
